@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ColorDetectionCV:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ColorDetectionCV_jar</output-path>
+    <root id="archive" name="ColorDetectionCV.jar">
+      <element id="module-output" name="ColorDetectionCV" />
+      <element id="extracted-dir" path="$USER_HOME$/opencv/build/java/opencv-455.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
